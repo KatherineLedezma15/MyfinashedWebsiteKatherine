@@ -1,0 +1,16 @@
+.footerbar{
+  background-color: #ffcf01;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden; 
+}
+.footerbar a{
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+  float: left;
+}
+
+.footerbar a:hover{
+  background-color: lightblue;
+}
